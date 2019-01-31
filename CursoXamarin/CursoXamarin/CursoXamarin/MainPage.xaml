@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CursoXamarin"
+             x:Class="CursoXamarin.MainPage">
+
+    <StackLayout
+        BackgroundColor="WhiteSmoke">
+        <!-- Place new controls here -->
+        <Grid Padding="5" ColumnSpacing="1" RowSpacing="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            
+            <Image Source="User.png" Grid.Column="0" Grid.Row="0"/>
+            <StackLayout Grid.Column="0" Grid.Row="1">
+                <Label Text="Usuario" 
+                HorizontalOptions="Center"/>
+                <Entry
+                    Placeholder="Ejemplo: GabHern"/>
+                <Label Text="Contraseña" 
+                HorizontalOptions="Center"/>
+                <Entry
+                    Placeholder="*****"
+                    IsPassword="true"/>
+                <Button 
+                    Text="Iniciar sesión"
+                    Clicked="Button_Clicked_1"/>
+            </StackLayout>
+            <Button 
+                Clicked="Button_Clicked" 
+                Text="Olvide mi contraseña :(" 
+                Grid.Column="0" Grid.Row="2"
+                BackgroundColor="Transparent"
+                FontSize="Micro"/>
+        </Grid>
+
+    </StackLayout>
+
+</ContentPage>

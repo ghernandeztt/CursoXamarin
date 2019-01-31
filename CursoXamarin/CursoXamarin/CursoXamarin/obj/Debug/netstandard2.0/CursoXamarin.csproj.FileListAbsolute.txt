@@ -1,0 +1,13 @@
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\bin\Debug\netstandard2.0\CursoXamarin.deps.json
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\bin\Debug\netstandard2.0\CursoXamarin.dll
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\bin\Debug\netstandard2.0\CursoXamarin.pdb
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.csprojAssemblyReference.cache
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.AssemblyInfo.cs
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.dll
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\CursoXamarin.pdb
+C:\Users\GABRIEL\Desktop\Educación Continua\Xamarin\CursoXamarin\CursoXamarin\CursoXamarin\obj\Debug\netstandard2.0\ForgotPasswordPage.xaml.g.cs
